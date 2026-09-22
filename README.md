@@ -88,15 +88,15 @@ Google Drive.
 
 | Métrica | Média | Desvio Padrão |
 |---|---|---|
-| Accuracy | `TODO` | `TODO` |
-| Precision | `TODO` | `TODO` |
-| Recall | `TODO` | `TODO` |
-| F1-score | `TODO` | `TODO` |
-| Loss | `TODO` | `TODO` |
+| Accuracy | `98.75%` | `0.39%` |
+| Precision | `98.81%` | `0.36%` |
+| Recall | `98.72%` | `0.40%` |
+| F1-score | `98.75%` | `0.39%` |
+| Loss | `0.1236` | `0.0169` |
 
 ### Matriz de confusão (melhor execução)
 
-`[placeholder — inserir imagem/gráfico da matriz de confusão]`
+![Matriz de Confusão](images/matriz_confusao.png)
 
 ### Avaliação das explicações (Gini / AOPC)
 
