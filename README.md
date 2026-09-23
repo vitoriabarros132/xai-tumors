@@ -108,7 +108,9 @@ Google Drive.
 
 ### Exemplos visuais
 
-`[placeholder — inserir exemplos de heatmaps/explicações por classe (Normal, glioma, meningioma, pituitary)]`
+![Exemplo GRADCAM++](images/GradCAM_G_290.jpg)
+![Exemplo LIME](images/LIME_Op2_G_290.jpg)
+![Exemplo SHAP](images/SHAP_G_290.png)
 
 ## Estrutura de diretórios (Google Drive)
 
