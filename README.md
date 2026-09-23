@@ -102,9 +102,9 @@ Google Drive.
 
 | Técnica | Gini (média ± dp) | AOPC (média ± dp) |
 |---|---|---|
-| Grad-CAM++ | `TODO` | `TODO` |
-| LIME | `TODO` | `TODO` |
-| SHAP | `TODO` | `TODO` |
+| Grad-CAM++ | `0.6320 ± 0.11` | `0.5288 ± 0.32` |
+| LIME | `0.5639 ± 0.07` | `0.5474 ± 0.22` |
+| SHAP | `0.4947 ± 0.10` | `0.5223 ± 0.30` |
 
 ### Exemplos visuais
 
