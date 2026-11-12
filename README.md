@@ -108,9 +108,9 @@ Google Drive.
 
 ### Exemplos visuais
 
-![Exemplo GRADCAM++](images/GradCAM_G_290.jpg)
-![Exemplo LIME](images/LIME_Op2_G_290.jpg)
-![Exemplo SHAP](images/SHAP_G_290.png)
+![Exemplo GRADCAM++](images/GradCAM_G_505_SP_.jpg)
+![Exemplo LIME](images/LIME_Op2_G_505_SP_.jpg)
+![Exemplo SHAP](images/SHAP_G_505_SP_.png)
 
 ## Estrutura de diretórios (Google Drive)
 
